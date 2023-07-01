@@ -17,7 +17,7 @@ The dataset comprises 13 features, consisting of 12 categorical variables and 1 
 
 #Demo Website
 
-To try out the Rental Price Checker, you can visit the Demo Website at mrharton1.pythonanywhere.com
+To try out the Rental Price Checker, you can visit the Demo Website at mrharton1.pythonanywhere.com.
 This website showcases the functionality and usage of the model.
 
 Feel free to explore the repository for further details and the implementation of the Gradient Boosting Model for rental price assessment.
